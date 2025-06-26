@@ -36,5 +36,17 @@ pip install -r requirements.txt
 # 3. Set your OpenAI API Key (optional but recommended)
 export OPENAI_API_KEY='your-key-here'
 
+## 🔑 How to Get an OpenAI API Key (Optional)
+
+To enable AI-powered game suggestions (like automatic detection of game type from your description), you can use the OpenAI API via LangChain.
+
+Follow these steps:
+
+1. Go to [https://platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys)
+2. Sign in or create an OpenAI account
+3. Click **“Create new secret key”**
+4. Copy the key (starts with `sk-...`)
+
+
 # 4. Run the app
 python app.py
