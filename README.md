@@ -2,6 +2,32 @@
 
 This project is a fun, interactive game generator that takes a simple game description (like "snake", "flappy bird", etc.) and launches a playable browser game using Gradio and LangChain.
 
+## 📸 Screenshots
+
+### 🎯 Game Generator Interface
+![UI](Screenshot%201.png)
+
+### 🐍 Snake Game
+![Snake](Snake.png)
+
+### 🏓 Pong Game
+![Pong](Pong.png)
+
+### 🐤 Flappy Bird
+![Flappy Bird](Flappy%20Bird.png)
+
+### 🧱 Breakout Game
+![Breakout](Break.png)
+
+### 🌲 Dino Game
+![Dino](Dino.png)
+
+### 🧩 Maze Game
+![Maze](Maze.png)
+
+### 🖱️ Clicker Game
+![Click Game](Click%20game.png)
+
 ## 🚀 Features
 
 - Generates games like:
