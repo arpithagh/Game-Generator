@@ -19,6 +19,10 @@ This project is a fun, interactive game generator that takes a simple game descr
 
 See `requirements.txt` for dependencies.
 
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
 ## 🔑 Setup
 
 ```bash
